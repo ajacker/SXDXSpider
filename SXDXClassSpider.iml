@@ -7,7 +7,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="com.squareup.okhttp3:okhttp:3.11.0" level="project" />
     <orderEntry type="library" name="com.baidu.aip:java-sdk:4.6.1" level="project" />
+    <orderEntry type="library" name="net.sourceforge.tess4j:tess4j:4.2.2" level="project" />
   </component>
 </module>
