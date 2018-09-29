@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8f546048-84e8-4b8f-871d-3c849d4584fe" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/net_sourceforge_tess4j_tess4j_4_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/md5.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yzmAnalysier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/com_squareup_okhttp3_okhttp_3_11_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SXDXClassSpider.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SXDXClassSpider.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils.java" afterDir="false" />
-    </list>
+    <list default="true" id="8f546048-84e8-4b8f-871d-3c849d4584fe" name="默认更改列表" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -348,18 +338,17 @@
       <workItem from="1538138159384" duration="11476000" />
       <workItem from="1538197640044" duration="8757000" />
       <workItem from="1538207377445" duration="660000" />
-      <workItem from="1538208324034" duration="1342000" />
+      <workItem from="1538208324034" duration="1658000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37934000" />
+    <option name="totallyTimeSpent" value="38250000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="289" y="65" width="1717" height="893" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2144997" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2144997" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="设计器" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -368,14 +357,14 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32888147" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.40608466" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.40608466" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32936507" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="调试" order="11" weight="0.42737895" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.3288889" />
